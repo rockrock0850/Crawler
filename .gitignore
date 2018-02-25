@@ -11,3 +11,5 @@ src/.gitignore
 .classpath
 
 target/
+
+logs/
